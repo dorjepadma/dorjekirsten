@@ -32,7 +32,7 @@ const Navigation = () => {
         </MDBNavbarToggler>
         <MDBCollapse navbar show={showNavSecond}>
           <MDBNavbarNav>
-            <MDBNavbarLink href='works'>WEBSITES</MDBNavbarLink>
+            <MDBNavbarLink href='portfolio'>PORTFOLIO</MDBNavbarLink>
             <MDBNavbarLink href='bio'>BIO</MDBNavbarLink>
             <MDBNavbarLink href='contact'>CONTACT</MDBNavbarLink>
           </MDBNavbarNav>

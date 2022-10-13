@@ -19,7 +19,7 @@ const Contact = () => {
       className='img-thumbnail'
       alt='a phone to contact Dorje Kirsten'
     />
-              <h1 className="contactTitle">Send me an inquiry email</h1>
+              <h1 className="contactTitle">Send me an inquiry</h1>
     
         <Mailer />
             </MDBCol>

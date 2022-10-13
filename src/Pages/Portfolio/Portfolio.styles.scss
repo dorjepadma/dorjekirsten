@@ -1,0 +1,23 @@
+.portfolioContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 90%;
+  padding: 20px 80px;
+  margin-top: 5vh;
+  @media screen and (max-width: 768px) {
+    margin-top: 0;
+  }
+}
+.portfolioCarousel {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  @media screen and (max-width: 768px) {
+    height: auto;
+  }
+}
