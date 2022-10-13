@@ -6,7 +6,7 @@ import './Homepage.styles.scss';
 
 const Homepage = () => {
   return (
-    <MDBContainer className='hompageContainer'>
+    <MDBContainer className='homepageContainer'>
       <MDBRow className='g-0'>
         <MDBCol md='6' lg='5'>
           
