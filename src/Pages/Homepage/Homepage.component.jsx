@@ -25,7 +25,7 @@ const Homepage = () => {
               <p className='card-text'>
                 Pick a Card, any card.
               </p>
-              <MDBBtn href='#' color='primary'>
+              <MDBBtn href='https://www.dorjekirsten.com/bio' color='primary'>
                 Draw
               </MDBBtn>
             </MDBCardBody>
