@@ -20,11 +20,14 @@ const Homepage = () => {
         </MDBCol>
         <MDBCol md='6' lg='7'>
           <MDBCard className='h-100'>
-            <MDBCardBody>
-              <h5 className='card-title'>My Work</h5>
-              <p className='card-text'>
+            <MDBCardBody className='drawCard'>
+              <div className='cardText'>
+              <h1 className='card-title'>My Work</h1>
+              <p>
                 Pick a Card, any card.
               </p>
+
+              </div>
               <MDBBtn href='https://www.dorjekirsten.com/bio' color='primary'>
                 Draw
               </MDBBtn>
